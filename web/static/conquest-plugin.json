@@ -1,10 +1,10 @@
 {
-  "name": "Basic Spaceship Marketplace",
+  "name": "GM",
   "iframe": "./",
   "config": {
     "actions": [
       {
-        "title": "Market",
+        "title": "Click me!",
         "action": "show_planet",
         "panelConditions": [
           "owner",
