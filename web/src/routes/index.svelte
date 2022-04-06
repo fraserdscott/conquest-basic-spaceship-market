@@ -11,6 +11,7 @@
     <p class="text-lg font-bold">GM</p>
     <p>I hope you're having a great day :)</p>
     <p>More plugins to come!</p>
+    <p class="p-2">- fraserd.eth</p>
 {:else}
   <p>Waiting for initialization to complete....</p>
 {/if}

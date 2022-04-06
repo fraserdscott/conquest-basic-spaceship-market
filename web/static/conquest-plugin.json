@@ -7,6 +7,7 @@
         "title": "Click me!",
         "action": "show_planet",
         "panelConditions": [
+          "owner",
           "planet:basic_sale"
         ],
         "mapConditions": [
