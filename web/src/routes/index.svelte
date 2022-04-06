@@ -105,6 +105,7 @@
     <p>Loading...</p>
   {:else if $context.planet}
     {#if $context.planet.state.owner?.toLowerCase() === $context.account?.toLowerCase()}
+    <h1>FRASERS SHIP MARKETPLACE</h1>
       <p>There is {$context.planet.state.numSpaceships} spaceships on planet "{$context.planet.info.stats.name}"</p>
       <hr class="m-2" />
 
